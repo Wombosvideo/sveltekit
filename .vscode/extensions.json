@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "svelte.svelte-vscode",
+        "esbenp.prettier-vscode",
+        "pkief.material-icon-theme",
+        "ms-vscode.vscode-typescript-next",
+        "github.github-vscode-theme"
+    ]
+}
